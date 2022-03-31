@@ -19,10 +19,14 @@
     "automacao",
     "tse"
   ],
-  "author": "TSE Automação Industrial",
-  "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
     "js-cookie": "^3.0.1"
-  }
+  },
+  "author": "TSE Automação Industrial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrupoTSE/tse-mindsphere/issues"
+  },
+  "homepage": "https://github.com/GrupoTSE/tse-mindsphere"
 }
