@@ -1,7 +1,7 @@
 {
   "name": "tse-mindsphere",
   "version": "1.0.0",
-  "description": "",
+  "description": "Biblioteca para facilitar a comunicação com API's mindsphere no frontend",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
