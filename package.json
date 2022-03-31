@@ -1,0 +1,28 @@
+{
+  "name": "tse-mindsphere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mindsphere",
+    "mindsphere-sdk",
+    "sdk",
+    "typescript",
+    "react",
+    "api",
+    "lib",
+    "frontend",
+    "siemens",
+    "automacao",
+    "tse"
+  ],
+  "author": "TSE Automação Industrial",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "js-cookie": "^3.0.1"
+  }
+}
